@@ -47,7 +47,7 @@ Format tersebut biasanya berasal dari:
 ## **Tangkapan Layar**
 
 <div align="center">
-  <img src="./assets/WiFi-Handshake-Hunter.jpg" alt="WiFi Handshake Hunter">
+  <img src="./assets/WiFi Handshake Hunter.jpg" alt="WiFi Handshake Hunter">
 </div>
 
 ---
